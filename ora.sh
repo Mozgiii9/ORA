@@ -137,4 +137,4 @@ sudo sysctl vm.overcommit_memory=1
 echo
 show "Запуск Docker контейнеров через docker-compose (может занять 5-10 минут)..."
 echo
-sudo docker compose up
+sudo docker-compose up
